@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>音乐厅</title>	
+	<link rel="stylesheet" type="text/css" href="style/yuyan_music.css">	
+    <link rel="stylesheet" type="text/css" href="style/yuyan_scroll.css">
+  </head>
+  
+  <body>
+    <div id="yuyanMusic_main">
+    <div id="content_main">
+    <div id="musicList_left">
+    <div id="musicList_navigation">
+    <ul>
+    <li><span>流行歌曲</span></li>
+    <li><span>动漫歌曲</span></li>
+    <li><span>欧美歌曲</span></li>
+    <li><span>专辑列表</span></li>
+    </ul>
+    </div>
+    <div id="musicList_content">
+    <div class="songs"></div>
+    <div class="songs"></div>
+    <div class="songs"></div>
+    <div class="songs"></div>
+    </div>
+    </div>
+    <div id="musicPlayer_right">
+    <div id="musicPlayer_function">
+    <div id="function_major">
+    <div id="major_singer"></div>
+    <div id="major_major">
+    <div id="play"></div>
+    <div id="previous"></div>
+    <div id="next"></div>
+    <div id="voice">
+     <div id="sound_or_silence" class="sound">
+      <div id="voice_control">
+      	<table cellspacing="5px"><tr><td></td><td></td><td></td><td></td><td></td></tr></table>
+      </div>
+     <!-- <div id="voice_control_bar"></div>-->
+     </div>
+    </div>
+    <div id="mode">
+    <div id="positon_relative">
+    <ul id="mode_ul">
+    </ul>
+    </div>
+    </div>
+    <div id="show_Song_Name"></div><!-- 父元素为 major_major-->
+    </div>
+    <div class="clearFloat"></div>
+    </div>
+    
+    <div id="function_progress">
+    <div id="progress_bar"></div>
+    <div id="progress_contronl"></div>
+    </div>
+    </div>
+    <div id="musicPlayer_navigation">
+    <ul>
+    <li>播放列表</li>
+    <li>显示歌词</li>
+    <div class="clearFloat"></div>
+    </ul>
+    </div>
+    <div id="musicPlayer_show">
+    <div class="show">
+    <div id="default_List"><!-- 默认播放列表 -->
+     <div class="play_list_navigation">默认播放列表<div class="expand_or_retract" id="retract"></div><div class="clearFloat"></div></div>
+     <div id="default_all_songs"></div>
+    </div>
+    <div id="my_musicList">
+     <div class="play_list_navigation">我的音乐列表<div class="expand_or_retract" id="expand"></div><div class="clearFloat"></div></div>
+     <div id="my_songs">
+     	<div class="from4_scroll_container" id="yuyan5_container">
+     		<div class="scroll_shower" id="yuyan5_shower">
+     			 <table id="deposit_my_songs" cellpadding="0px" cellspacing="0px" ></table>
+     		</div>
+     	</div>
+        <div class="from4_scroll_scorller" id="yuyan5_scroller">
+        <div class="scroll_up" id="yuyan5_scroll_up"></div><div class="scroll_bar" id="yuyan5_scroll_bar"></div><div class="scroll_down" id="yuyan5_scroll_down"></div>	
+     </div>
+    
+     </div>
+    </div>
+    </div>
+    <div class="show" id="sloveOver"><!-- 显示歌词 -->
+    <div id="show_lyrics"></div>
+    <div id="load_lyrics">歌词载入中···</div>
+    <div id="full_screen_button"></div>
+    </div>
+    </div>
+    </div>
+    <div class="clearFloat"></div>
+    </div>
+    </div>
+   <div id="shield">
+   <div id="full_screen_lyrics"><div id="membrane"><div id="full_show_lyrics"></div></div></div>
+   <div id="exit_full_screen_button"></div>
+   </div>
+  </body>
+    <script type="text/javascript" src="js/yuyan_scroller.js"></script>
+  <script  type="text/javascript" src="js/yuyan_music.js"></script>
+
+</html>

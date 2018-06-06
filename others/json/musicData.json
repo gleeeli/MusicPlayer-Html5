@@ -1,0 +1,397 @@
+﻿{
+    "musicData": [
+        {
+           "albumName":"王光良",
+            "albumPoster": "images/musicPicture/albumPoster/MichaelWong.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "光良 - 第一次",
+                    "musicSinger": "光良",
+                    "musicLink": "others/music/songs/MichaelWong/for_the_first_time.ogg",
+                    "lyricsLink": "others/music/lyrics/MichaelWong/for_the_first_time.lrc",
+                    "musicTime": "04:21",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MichaelWong.png",
+                    "lyricsBackImages":"MichaelWong",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName":"光良 - 都是你",
+                    "musicSinger": "光良",
+                    "musicLink": "others/music/songs/MichaelWong/all_of_you.ogg",
+                    "lyricsLink": "others/music/lyrics/MichaelWong/all_of_you.lrc",
+                    "musicTime": "02:59",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MichaelWong.png",
+                    "lyricsBackImages":"MichaelWong",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName": "光良 - 让你飞",
+                    "musicSinger": "光良",
+                    "musicLink": "others/music/songs/MichaelWong/let_you_fly.ogg",
+                    "lyricsLink": "others/music/lyrics/MichaelWong/let_you_fly.lrc",
+                    "musicTime": "04:25",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MichaelWong.png",
+                    "lyricsBackImages":"MichaelWong",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName": "光良 - 伤心地跌",
+                    "musicSinger": "光良",
+                    "musicLink": "others/music/songs/MichaelWong/sad_metro.ogg",
+                    "lyricsLink": "others/music/lyrics/MichaelWong/sad_metro.lrc",
+                    "musicTime": "04:12",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MichaelWong.png",
+                    "lyricsBackImages":"MichaelWong",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName": "光良 - 童话  (演奏版)",
+                    "musicSinger": "光良",
+                    "musicLink": "others/music/songs/MichaelWong/fairy_tale.ogg",
+                    "lyricsLink": "others/music/lyrics/MichaelWong/fairy_tale.lrc",
+                    "musicTime": "04:26",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MichaelWong.png",
+                    "lyricsBackImages":"MichaelWong",
+                    "BackgroundAmounts":"6"
+                }
+            ]
+        },
+        {
+            "albumName": "仓木麻衣",            
+            "albumPoster": "images/musicPicture/albumPoster/MaiKuraki.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "Wake me up - 仓木麻衣",
+                    "musicSinger": "仓木麻衣",
+                    "musicLink": "others/music/songs/MaiKuraki/Wake_me_up.ogg",
+                    "lyricsLink": "others/music/lyrics/MaiKuraki/Wake_me_up.lrc",
+                    "musicTime": "04:23",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MaiKuraki.png",
+                    "lyricsBackImages":"MaiKuraki",
+                    "BackgroundAmounts":"7"
+                },
+                {
+                    "musicName": "Touch Me！ - 仓木麻衣",
+                    "musicSinger": "仓木麻衣",
+                    "musicLink": "others/music/songs/MaiKuraki/Touch_Me.ogg",
+                    "lyricsLink": "others/music/lyrics/MaiKuraki/Touch_Me.lrc",
+                    "musicTime": "05:08",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MaiKuraki.png",
+                    "lyricsBackImages":"MaiKuraki",
+                    "BackgroundAmounts":"7"
+                },
+                {
+                    "musicName": "Secret Of My Heart - 仓木麻衣",
+                    "musicSinger": "仓木麻衣",
+                    "musicLink": "others/music/songs/MaiKuraki/Secret_Of_My_Heart.ogg",
+                    "lyricsLink": "others/music/lyrics/MaiKuraki/Secret_Of_My_Heart.lrc",
+                    "musicTime": "04:27",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MaiKuraki.png",
+                    "lyricsBackImages":"MaiKuraki",
+                    "BackgroundAmounts":"7"
+                },
+                {
+                    "musicName": "Puzzle - 仓木麻衣",
+                    "musicSinger": "仓木麻衣",
+                    "musicLink": "others/music/songs/MaiKuraki/Puzzle.ogg",
+                    "lyricsLink": "others/music/lyrics/MaiKuraki/Puzzle.lrc",
+                    "musicTime": "03:58",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MaiKuraki.png",
+                    "lyricsBackImages":"MaiKuraki",
+                    "BackgroundAmounts":"7"
+                },
+                {
+                    "musicName": "Always - 仓木麻衣",
+                    "musicSinger": "仓木麻衣",
+                    "musicLink": "others/music/songs/MaiKuraki/Always.ogg",
+                    "lyricsLink": "others/music/lyrics/MaiKuraki/Always.lrc",
+                    "musicTime": "04:09",
+                    "singerPhoto": "images/musicPicture/singerPhotos/MaiKuraki.png",
+                    "lyricsBackImages":"MaiKuraki",
+                    "BackgroundAmounts":"7"
+                }
+            ]
+        },
+        {
+            "albumName": "流行歌曲",
+            "albumPoster": "images/musicPicture/albumPoster/popular.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "G.E.M. 邓紫棋 - 龙卷风",
+                    "musicSinger": "邓紫棋",
+                    "musicLink": "others/music/songs/popular/G.E.M.twister.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/G.E.M.twister.lrc",
+                    "musicTime": "04:31",
+                    "singerPhoto": "images/musicPicture/singerPhotos/GEM.png",
+                    "lyricsBackImages":"GEM",
+                    "BackgroundAmounts":"2"
+                },
+                {
+                    "musicName": "张杰 - 无情的情书",
+                    "musicSinger": "张杰",
+                    "musicLink": "others/music/songs/popular/heartless_Book.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/heartless_Book.lrc",
+                    "musicTime": "05:10",
+                    "singerPhoto": "images/musicPicture/singerPhotos/zhangjie.png",
+                    "lyricsBackImages":"zhangjie",
+                    "BackgroundAmounts":"3"
+                },
+                {
+                    "musicName": "王铮亮 - 时间都去哪儿了",
+                    "musicSinger": "王铮亮",
+                    "musicLink": "others/music/songs/popular/where_is_time.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/where_is_time.lrc",
+                    "musicTime": "03:40",
+                    "singerPhoto": "images/musicPicture/singerPhotos/wangzhengliang.png",
+                    "lyricsBackImages":"wangzhengliang",
+                    "BackgroundAmounts":"3"
+                },
+                {
+                    "musicName": "大张伟 - 倍儿爽",
+                    "musicSinger": "大张伟",
+                    "musicLink": "others/music/songs/popular/fell_well.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/fell_well.lrc",
+                    "musicTime": "02:50",
+                    "singerPhoto": "images/musicPicture/singerPhotos/dazhangwei.png",
+                    "lyricsBackImages":"",
+                    "BackgroundAmounts":"0"
+                },
+                {
+                    "musicName": "金秀贤 - 约定",
+                    "musicSinger": "金秀贤",
+                    "musicLink": "others/music/songs/popular/appoint.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/appoint.lrc",
+                    "musicTime": "04:01",
+                    "singerPhoto": "images/musicPicture/singerPhotos/jinxiuxian.png",
+                    "lyricsBackImages":"jinxiuxian",
+                    "BackgroundAmounts":"4"
+                },
+                {
+                    "musicName": "张韶涵 - 第五季",
+                    "musicSinger": "张韶涵",
+                    "musicLink": "others/music/songs/popular/the_fifth_season.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/the_fifth_season.lrc",
+                    "musicTime": "04:14",
+                    "singerPhoto": "images/musicPicture/singerPhotos/Angela.png",
+                    "lyricsBackImages":"Angela",
+                    "BackgroundAmounts":"5"
+                },
+                {
+                    "musicName": "张韶涵 - 看得最远的地方",
+                    "musicSinger": "张韶涵",
+                    "musicLink": "others/music/songs/popular/the_place_to_outlook.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/the_place_to_outlook.lrc",
+                    "musicTime": "04:07",
+                    "singerPhoto": "images/musicPicture/singerPhotos/Angela.png",
+                    "lyricsBackImages":"Angela",
+                    "BackgroundAmounts":"5"
+                },
+                {
+                    "musicName": "张韶涵 - 泪光",
+                    "musicSinger": "张韶涵",
+                    "musicLink": "others/music/songs/popular/tear.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/tear.lrc",
+                    "musicTime": "04:25",
+                    "singerPhoto": "images/musicPicture/singerPhotos/Angela.png",
+                    "lyricsBackImages":"Angela",
+                    "BackgroundAmounts":"5"
+                },
+                                {
+                    "musicName": "张韶涵 - 泪光2",
+                    "musicSinger": "张韶涵",
+                    "musicLink": "others/music/songs/popular/tear.ogg",
+                    "lyricsLink": "others/music/lyrics/popular/tear.lrc",
+                    "musicTime": "04:25",
+                    "singerPhoto": "images/musicPicture/singerPhotos/Angela.png",
+                    "lyricsBackImages":"Angela",
+                    "BackgroundAmounts":"5"
+                }
+            ]
+        },
+        {
+            "albumName": "动漫歌曲",
+            "albumPoster": "images/musicPicture/albumPoster/cartoon.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "Get Over（日本） - 棋魂",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "others/music/songs/cartoon/Get_Over.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/Get_Over.lrc",
+                    "musicTime": "05:14",
+                    "singerPhoto": "images/musicPicture/singerPhotos/goPlayer.png",
+                    "lyricsBackImages":"goPlayer",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName": "胡彦斌 - 月光（《秦时明月》主题曲）",
+                    "musicSinger": "胡彦斌",
+                    "musicLink": "others/music/songs/cartoon/moon.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/moon.lrc",
+                    "musicTime": "04:46",
+                    "singerPhoto": "images/musicPicture/singerPhotos/qingshimingyue.png",
+                    "lyricsBackImages":"qishimingyue",
+                    "BackgroundAmounts":"9"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "死神 - 乱舞のメロディ",
+                    "musicSinger": "死神",
+                    "musicLink": "others/music/songs/cartoon/Bleach_Rolling_Star.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/Bleach_Rolling_Star.lrc",
+                    "musicTime": "03:50",
+                    "singerPhoto": "images/musicPicture/singerPhotos/bleach.png",
+                    "lyricsBackImages":"bleach",
+                    "BackgroundAmounts":"4"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                },
+                {
+                    "musicName": "犬夜叉 - CHANGE THE WORLD",
+                    "musicSinger": "犬夜叉",
+                    "musicLink": "others/music/songs/cartoon/CHANGE_THE_WORLD.ogg",
+                    "lyricsLink": "others/music/lyrics/cartoon/CHANGE_THE_WORLD.lrc",
+                    "musicTime": "04:53",
+                    "singerPhoto": "images/musicPicture/singerPhotos/inuyasha.png",
+                    "lyricsBackImages":"inuyasha",
+                    "BackgroundAmounts":"10"
+                }
+            ]
+        },
+        {
+            "albumName": "QQ飞车歌曲",
+            "albumPoster": "images/musicPicture/albumPoster/qqspeed.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "潘辰 - 急速梦想",
+                    "musicSinger": "潘辰",
+                    "musicLink": "others/music/songs/QQspeed/QQSpeed_dream.ogg",
+                    "lyricsLink": "others/music/lyrics/QQspeed/QQSpeed_dream.lrc",
+                    "musicTime": "02:48",
+                    "singerPhoto": "images/musicPicture/singerPhotos/panchen.png",
+                    "lyricsBackImages":"tangerine",
+                    "BackgroundAmounts":"6"
+                },
+                {
+                    "musicName": "本兮 - 无限速 (本兮 阿悄)",
+                    "musicSinger": "本兮-阿悄",
+                    "musicLink": "others/music/songs/QQspeed/QQSpeed_unlimit.ogg",
+                    "lyricsLink": "others/music/lyrics/QQspeed/QQSpeed_unlimit.lrc",
+                    "musicTime": "02:51",
+                    "singerPhoto": "images/musicPicture/singerPhotos/benXi.png",
+                    "lyricsBackImages":"tangerine",
+                    "BackgroundAmounts":"6"
+                }
+            ]
+        },
+        {
+            "albumName": "金典旋律",
+            "albumPoster": "images/musicPicture/albumPoster/famousMelody.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "倩女幽魂 - 倩女幽魂online背景",
+                    "musicSinger": "倩女幽魂Online",
+                    "musicLink": "others/music/songs/melody/qianNv_online.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "02:37",
+                    "singerPhoto": "images/musicPicture/singerPhotos/qianNv.png",
+                    "lyricsBackImages":"qianNv",
+                    "BackgroundAmounts":"7"
+                },
+                {
+                    "musicName": "火影忍者 - 火影疾风",
+                    "musicSinger": "roberto vecchioni",
+                    "musicLink": "others/music/songs/melody/naruto_Heaven_Shaking_Event.ogg",
+                    "lyricsLink": "others/music/lyrics/melody/naruto_Heaven_Shaking_Event.lrc",
+                    "musicTime": "03:03",
+                    "singerPhoto": "images/musicPicture/singerPhotos/naruto.png",
+                    "lyricsBackImages":"naruto",
+                    "BackgroundAmounts":"7"
+                }
+            ]
+        },
+        {
+            "albumName": "欧美歌曲",
+            "albumPoster": "images/musicPicture/albumPoster/wester.jpg",
+            "albumSongs": [
+                {
+                    "musicName": "Brittany Cairns - Behind the Scenes",
+                    "musicSinger": "Brittany Cairns",
+                    "musicLink": "others/music/songs/western/Brittany_Cairns_Behind_the_Scenes.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "02:51",
+                    "singerPhoto": "images/musicPicture/singerPhotos/BrittanyCairns.png",
+                    "lyricsBackImages":"",
+                    "BackgroundAmounts":"0"
+                },
+                {
+                    "musicName": "R5 - If I Can't Be with You",
+                    "musicSinger": "R5",
+                    "musicLink": "others/music/songs/western/If_I_Cant_Be_with_You.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "02:55",
+                    "singerPhoto": "images/musicPicture/singerPhotos/R5.png",
+                    "lyricsBackImages":"R5",
+                    "BackgroundAmounts":"2"
+                }
+            ]
+        }
+        
+    ]
+}
